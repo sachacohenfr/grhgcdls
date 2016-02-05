@@ -1,11 +1,11 @@
-body {background-image: url(https://cdn.rawgit.com/sachacohenfr/shorlgead/master/subtle_grunge.png); background-repeat: repeat; font-family: 'Open Sans', sans-serif;}
+body {background-image: url(https://cdn.rawgit.com/sachacohenfr/grhgcdls/master/subtle_grunge.png); background-repeat: repeat; font-family: 'Open Sans', sans-serif;}
 .menu, .menu ul, .menu li {width: 140px; margin-top: 3px;}
 .menu li a {font-size: 13px}
 .menu .menuLevel1 {margin-left: 20px}
 .menuPosition {width: 209px; height: 379px; background-size: contain; background-repeat: no-repeat;}
 .menu ul.menuLevel1 a.menuVisible:hover, .menu ul.menuLevel2 a.menuVisible:hover {background-color: rgb(0, 162, 227)}
-td.header {background-image : url(https://cdn.rawgit.com/sachacohenfr/shorlgead/master/copenhague_banner.png); background-repeat: no-repeat; background-position: center center;}
-.mainContent {background-color: #FFFFFF; margin: 5px 0px 0px 5px; padding: 5px; } 
+td.header {background-image : url(https://cdn.rawgit.com/sachacohenfr/grhgcdls/master/copenhague_banner.png); background-repeat: no-repeat; background-position: center center;}
+.mainContent {background-color: #FFFFFF; margin: 5px 0px 0px 5px; padding: 5px; }
 .mainContent p {font-size: 15px; letter-spacing: -0.5px;}
 #rever {width: 807px; margin-left: 5px}
 #BonjourImg {left: 358.5px;position: relative;}
