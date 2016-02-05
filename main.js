@@ -7,9 +7,9 @@ $(function () {
 	//$('.menu ul.menuLevel1 a.menuVisible:hover, .menu ul.menuLevel2 a.menuVisible:hover')
 	$('.menuVisible').css('border-radius', '0px');
 	$('.mainContent').attr('bgcolor', '#FFFFFF');
-	$('.menuPosition').css('background-image', 'url(https://rawgit.com/sachacohenfr/grhgcdls/master/bg-menu.png)');
-	$('head').append('<link rel="stylesheet" type="text/css" href="https://rawgit.com/sachacohenfr/grhgcdls/master/style.css">');
+	$('.menuPosition').css('background-image', 'url(https://sachacohenfr.github.io/grhgcdls/bg-menu.png)');
+	$('head').append('<link rel="stylesheet" type="text/css" href="https://sachacohenfr.github.io/grhgcdls/style.css">');
 	$('head').append("<link href='https://fonts.googleapis.com/css?family=Dosis:400,600' rel='stylesheet' type='text/css'>");
-	$( "<div id='SoleadFooter'><div><img src='https://rawgit.com/sachacohenfr/grhgcdls/master/cegibat.jpg' id='cegibat' alt='Logo' /><img src='https://rawgit.com/sachacohenfr/grhgcdls/master/grdf.jpg' id='grdf' alt='Logo' /></div></div>" ).insertAfter( ".globalTable" );
+	$( "<div id='SoleadFooter'><div><img src='https://sachacohenfr.github.io/grhgcdls/cegibat.jpg' id='cegibat' alt='Logo' /><img src='https://sachacohenfr.github.io/grhgcdls/grdf.jpg' id='grdf' alt='Logo' /></div></div>" ).insertAfter( ".globalTable" );
 
 });
