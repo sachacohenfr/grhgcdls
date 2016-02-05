@@ -1,6 +1,6 @@
 body {background: #FFF; font-family: 'Dosis', sans-serif !important;}
 .menu, .menu ul, .menu li {width: 140px; margin-top: 3px;}
-.menu li a {font-size: 14px; letter-spacing: 0.08em}
+.menu li a {font-size: 14px; letter-spacing: 0.08em; color: #9169a7;}
 .menu .menuLevel1 {margin-left: 32px}
 .menuPosition {width: 209px; height: 379px; background-size: contain; background-repeat: no-repeat; padding-top: 124px;}
 .menu ul.menuLevel1 a.menuVisible:hover, .menu ul.menuLevel2 a.menuVisible:hover {color: rgb(0, 162, 227)}
@@ -13,3 +13,4 @@ td.header {background-image : url(https://sachacohenfr.github.io/grhgcdls/copenh
 #SoleadFooter div {height: 70px;width: 1026px; margin-left: auto; margin-right: auto;}
 #SoleadFooter #cegibat {float: left; height: 70px; margin-left: 215px;}
 #SoleadFooter #grdf {float: right; height: 70px;}
+.menuItemLevel1Highlight {background-color: transparent !important; color: color: rgb(0, 162, 227);}
