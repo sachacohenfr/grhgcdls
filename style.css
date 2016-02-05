@@ -19,3 +19,4 @@ td.header {background-image : url(https://sachacohenfr.github.io/grhgcdls/copenh
 .mainContent p strong span  { font-family: 'Dosis', sans-serif !important; font-weight: bold; color: #77448f !important;}
 .menu ul.menuLevel1 a.menuItemLevel1Highlight, .menu ul.menuLevel2 a.menuItemLevel2Highlight {color: rgb(0, 162, 227) !important;}
 .menu ul.menuLevel1 a.menuVisible:hover, .menu ul.menuLevel2 a.menuVisible:hover {background-color: #FFF !important}
+#rever {display: none;}
