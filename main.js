@@ -9,7 +9,7 @@ $(function () {
 	$('.mainContent').attr('bgcolor', '#FFFFFF');
 	$('.menuPosition').css('background-image', 'url(https://rawgit.com/sachacohenfr/grhgcdls/master/bg-menu.png)');
 	$('head').append('<link rel="stylesheet" type="text/css" href="https://rawgit.com/sachacohenfr/grhgcdls/master/style.css">');
-	$('head').append("<link href=//fonts.googleapis.com/css?family=Open+Sans:400,600' rel='stylesheet' type='text/css'>");
+	$('head').append("<link href='https://fonts.googleapis.com/css?family=Dosis:400,600' rel='stylesheet' type='text/css'>");
 	$( "<div id='SoleadFooter'><div><img src='https://rawgit.com/sachacohenfr/grhgcdls/master/cegibat.jpg' id='cegibat' alt='Logo' /><img src='https://rawgit.com/sachacohenfr/grhgcdls/master/grdf.jpg' id='grdf' alt='Logo' /></div></div>" ).insertAfter( ".globalTable" );
 
 });

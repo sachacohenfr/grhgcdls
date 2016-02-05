@@ -1,4 +1,4 @@
-body {background-image: url(https://cdn.rawgit.com/sachacohenfr/grhgcdls/master/subtle_grunge.png); background-repeat: repeat; font-family: 'Open Sans', sans-serif;}
+body {background: #FFF; font-family: 'Open Sans', sans-serif;}
 .menu, .menu ul, .menu li {width: 140px; margin-top: 3px;}
 .menu li a {font-size: 13px}
 .menu .menuLevel1 {margin-left: 20px}
