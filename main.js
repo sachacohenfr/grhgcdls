@@ -1,8 +1,8 @@
 $(function () {
 	$("meta[content='IE=EmulateIE7']").attr('content', '');
-	$( "<img src='https://cdn.rawgit.com/sachacohenfr/grhgcdls/master/postit.png' id='rever' />" ).insertAfter( ".mainContent" );
+	$( "<img src='https://sachacohenfr.github.io/grhgcdls/postit.png' id='rever' />" ).insertAfter( ".mainContent" );
 	$('h1:contains("ACCUEIL")').css('opacity', '0');
-	$('.bonjour').replaceWith('<img src="https://cdn.rawgit.com/sachacohenfr/grhgcdls/master/bonjour.png" id="BonjourImg" alt="Bonjour," />');
+	$('.bonjour').replaceWith('<img src="https://sachacohenfr.github.io/grhgcdls/bonjour.png" id="BonjourImg" alt="Bonjour," />');
 	$('.menu ul.menuLevel1 a.menuItemLevel1Highlight, .menu ul.menuLevel2 a.menuItemLevel2Highlight').css('background-color', '#00A2E3');
 	//$('.menu ul.menuLevel1 a.menuVisible:hover, .menu ul.menuLevel2 a.menuVisible:hover')
 	$('.menuVisible').css('border-radius', '0px');
