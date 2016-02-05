@@ -14,6 +14,6 @@ td.header {background-image : url(https://sachacohenfr.github.io/grhgcdls/copenh
 #SoleadFooter #cegibat {float: left; height: 70px; margin-left: 215px;}
 #SoleadFooter #grdf {float: right; height: 70px;}
 .menuItemLevel1Highlight {background-color: transparent !important; color: color: rgb(0, 162, 227);}
-.mainContent p span { font-family: 'Dosis', sans-serif !important; letter-spacing: 0.08px; font-size: 18px; color: #282828;}
+.mainContent p span { font-family: 'Dosis', sans-serif !important; letter-spacing: 0.08px; font-size: 18px !important; color: #282828 !important;}
 .mainContent p span strong { font-family: 'Dosis', sans-serif !important; font-weight: bold; color: #77448f;}
 .menu ul.menuLevel1 a.menuItemLevel1Highlight, .menu ul.menuLevel2 a.menuItemLevel2Highlight {color: rgb(0, 162, 227) !important;}
