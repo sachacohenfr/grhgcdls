@@ -1,6 +1,5 @@
 $(function () {
 	$("meta[content='IE=EmulateIE7']").attr('content', '');
-	$( "<img src='https://sachacohenfr.github.io/grhgcdls/postit.png' id='rever' />" ).insertAfter( ".mainContent" );
 	$('h1:contains("ACCUEIL")').css('opacity', '0');
 	$('.bonjour').replaceWith('<img src="https://sachacohenfr.github.io/grhgcdls/bonjour.png" id="BonjourImg" alt="Bonjour," />');
 	$('.menu ul.menuLevel1 a.menuItemLevel1Highlight, .menu ul.menuLevel2 a.menuItemLevel2Highlight').css('background-color', '#00A2E3');
