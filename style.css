@@ -3,7 +3,7 @@ body {background: #FFF; font-family: 'Dosis', sans-serif !important;}
 .menu li a {font-size: 14px; letter-spacing: 0.08em}
 .menu .menuLevel1 {margin-left: 32px}
 .menuPosition {width: 209px; height: 379px; background-size: contain; background-repeat: no-repeat; padding-top: 124px;}
-.menu ul.menuLevel1 a.menuVisible:hover, .menu ul.menuLevel2 a.menuVisible:hover {background-color: rgb(0, 162, 227)}
+.menu ul.menuLevel1 a.menuVisible:hover, .menu ul.menuLevel2 a.menuVisible:hover {color: rgb(0, 162, 227)}
 td.header {background-image : url(https://sachacohenfr.github.io/grhgcdls/copenhague_banner.png); background-repeat: no-repeat; background-position: center center;}
 .mainContent {background-color: #FFFFFF; margin: 5px 0px 0px 5px; padding: 5px; box-shadow: 0px 0px 5px 0px rgba(84, 84, 84, 0.18);}
 .mainContent p {font-size: 15px; letter-spacing: -0.5px;}
